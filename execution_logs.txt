@@ -1,0 +1,5 @@
+Function 'reverse' executed in 0.0000 seconds
+Function 'monitor_aplliaction' executed in 1.7767 seconds
+Function 'occurence_charcters' executed in 0.0010 seconds
+Function 'get_running_processes' executed in 1.6243 seconds
+Function 'get_running_processes' executed in 1.4185 seconds
